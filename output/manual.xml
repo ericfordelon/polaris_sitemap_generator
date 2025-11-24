@@ -4,6 +4,364 @@
         <loc>https://www.polaris.com/en-us/off-road/models/</loc>
         <coveo:metadata>
             <type>Vehicles</type>
+            <topic>Models</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/sport/adventure/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Use</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/sport/dunes-deserts/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Use</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/utility/farming/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Use</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/utility/hunting/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Use</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/sport/mudding/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Use</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/utility/property-maintenance/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Use</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/utility/ranching/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Use</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/sport/trail-riding/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Use</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/atv-4-wheeler/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Type</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/sxs-utv/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Type</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/2-3-seat/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Type</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/4-6-seat/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Type</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/youth/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Type</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/sport/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Type</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shop-by-use/utility/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Type</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/polaris-northstar-enclosed-utvs/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Type</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/ranger/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Brand</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/rzr/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Brand</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/polaris-xpedition/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Brand</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/general/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Brand</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/sportsman/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Brand</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+            <topic>By Brand</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/shopping-tools/help-me-choose/</loc>
+        <coveo:metadata>
+            <type>Research</type>
+            <topic>Help Me Choose</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/what-is-an-atv/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/atv-buying-guide/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/how-to-choose-trailer-to-haul-atv-sxs-utv/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/how-to-trade-in/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/atv-vs-sxs-utv/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/introducing-the-2025-lineup-of-sportsman-2-up-atvs/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-32-ranger-xp-kinetic-vs-ranger-xp-1000/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-31-ranger-1500-questions-answered/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-26-general-vs-polaris-xpedition/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/beginners-guide-for-off-roading-adventures/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-18-all-new-rzr-xp-vs-rzr-xp-1000/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-16-ranger-fullsize-vs-midsize-buy-this-one/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-15-led-vs-halogen-lights-which-is-best/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-12-ranger-xp-1000-vs-1000-engines/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/to-the-test-episode-2-electric-sxs-recovery-with-diesel-brothers/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/how-to-choose-best-trail-riding-atv-or-sxs/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/side-by-side-utv-buying-guide/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/sxs-utv-atv-helmets/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/atv-utv-loading-ramps/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/best-utv-for-hunting/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/orv-transmission-types/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/off-road-tire-guide/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/sxs-utv-cab-enclosures/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/sxs-utv-windshield-buying-guide/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/trail-talk-episode-17-atv-vs-sxs-or-4runner-what-to-buy/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/trail-talk-episode-16-atv-vs-sxs-vs-4runner-trail-riding-challenge/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/trail-talk-episode-15-atv-vs-sxs-vs-4runner-crawiling-and-clearance-challenge/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/articles/buying-guides/trail-talk-episode-14-atv-vs-sxs-vs-4runner-speed-and-braking-challenge/</loc>
+        <coveo:metadata>
+            <type>Articles</type>
+            <topic>Buying Guides</topic>
         </coveo:metadata>
     </url>
 </urlset>

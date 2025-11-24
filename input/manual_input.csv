@@ -1,4 +1,53 @@
-url,type,
-https://www.polaris.com/en-us/off-road/models/,Vehicles
-
-
+url,type,topic
+https://www.polaris.com/en-us/off-road/models/,Vehicles,Models
+https://www.polaris.com/en-us/off-road/shop-by-use/sport/adventure/,Vehicles,By Use
+https://www.polaris.com/en-us/off-road/shop-by-use/sport/dunes-deserts/,Vehicles,By Use
+https://www.polaris.com/en-us/off-road/shop-by-use/utility/farming/,Vehicles,By Use
+https://www.polaris.com/en-us/off-road/shop-by-use/utility/hunting/,Vehicles,By Use
+https://www.polaris.com/en-us/off-road/shop-by-use/sport/mudding/,Vehicles,By Use
+https://www.polaris.com/en-us/off-road/shop-by-use/utility/property-maintenance/,Vehicles,By Use
+https://www.polaris.com/en-us/off-road/shop-by-use/utility/ranching/,Vehicles,By Use
+https://www.polaris.com/en-us/off-road/shop-by-use/sport/trail-riding/,Vehicles,By Use
+https://www.polaris.com/en-us/off-road/atv-4-wheeler/,Vehicles,By Type
+https://www.polaris.com/en-us/off-road/sxs-utv/,Vehicles,By Type
+https://www.polaris.com/en-us/off-road/shop-by-use/2-3-seat/,Vehicles,By Type
+https://www.polaris.com/en-us/off-road/shop-by-use/4-6-seat/,Vehicles,By Type
+https://www.polaris.com/en-us/off-road/shop-by-use/youth/,Vehicles,By Type
+https://www.polaris.com/en-us/off-road/shop-by-use/sport/,Vehicles,By Type
+https://www.polaris.com/en-us/off-road/shop-by-use/utility/,Vehicles,By Type
+https://www.polaris.com/en-us/off-road/polaris-northstar-enclosed-utvs/,Vehicles,By Type
+https://www.polaris.com/en-us/off-road/ranger/,Vehicles,By Brand
+https://www.polaris.com/en-us/off-road/rzr/,Vehicles,By Brand
+https://www.polaris.com/en-us/off-road/polaris-xpedition/,Vehicles,By Brand
+https://www.polaris.com/en-us/off-road/general/,Vehicles,By Brand
+https://www.polaris.com/en-us/off-road/sportsman/,Vehicles,By Brand
+https://www.polaris.com/en-us/off-road/,Vehicles,By Brand
+https://www.polaris.com/en-us/off-road/shopping-tools/help-me-choose/,Research,Help Me Choose
+https://www.polaris.com/en-us/off-road/articles/buying-guides/what-is-an-atv/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/atv-buying-guide/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/how-to-choose-trailer-to-haul-atv-sxs-utv/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/how-to-trade-in/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/atv-vs-sxs-utv/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/introducing-the-2025-lineup-of-sportsman-2-up-atvs/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-32-ranger-xp-kinetic-vs-ranger-xp-1000/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-31-ranger-1500-questions-answered/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-26-general-vs-polaris-xpedition/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/beginners-guide-for-off-roading-adventures/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-18-all-new-rzr-xp-vs-rzr-xp-1000/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-16-ranger-fullsize-vs-midsize-buy-this-one/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-15-led-vs-halogen-lights-which-is-best/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/shop-talk-episode-12-ranger-xp-1000-vs-1000-engines/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/to-the-test-episode-2-electric-sxs-recovery-with-diesel-brothers/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/how-to-choose-best-trail-riding-atv-or-sxs/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/side-by-side-utv-buying-guide/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/sxs-utv-atv-helmets/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/atv-utv-loading-ramps/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/best-utv-for-hunting/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/orv-transmission-types/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/off-road-tire-guide/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/sxs-utv-cab-enclosures/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/sxs-utv-windshield-buying-guide/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/trail-talk-episode-17-atv-vs-sxs-or-4runner-what-to-buy/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/trail-talk-episode-16-atv-vs-sxs-vs-4runner-trail-riding-challenge/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/trail-talk-episode-15-atv-vs-sxs-vs-4runner-crawiling-and-clearance-challenge/,Articles,Buying Guides
+https://www.polaris.com/en-us/off-road/articles/buying-guides/trail-talk-episode-14-atv-vs-sxs-vs-4runner-speed-and-braking-challenge/,Articles,Buying Guides
