@@ -35,7 +35,7 @@ ENV/
 .DS_Store
 
 # Output files (generated sitemaps)
-output/*.xml
+#output/*.xml
 
 # Keep output directory structure
 !output/.gitkeep

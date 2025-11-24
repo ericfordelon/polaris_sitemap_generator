@@ -14,7 +14,7 @@ OUTPUT_DIR = BASE_DIR / "output"
 EXAMPLES_DIR = BASE_DIR / "examples"
 
 # Sitemap settings
-BASE_URL = "https://www.polaris.com/sitemaps/"
+BASE_URL = "https://ericfordelon.github.io/polaris_sitemap_generator/output/"
 MAX_URLS_PER_SITEMAP = 50000
 MAX_SITEMAP_SIZE_MB = 50
 

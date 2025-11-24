@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:coveo="https://www.coveo.com/en/company/about-us">
+    <url>
+        <loc>https://www.polaris.com/en-us/off-road/models/</loc>
+        <coveo:metadata>
+            <type>Vehicles</type>
+        </coveo:metadata>
+    </url>
+</urlset>
