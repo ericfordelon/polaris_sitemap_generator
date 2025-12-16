@@ -120,17 +120,9 @@ class SitemapGenerator:
 
         index_path = self.output_dir / "sitemap.xml"
 
-        # Update base URL in config for XML builder
-        import config
-        original_base_url = config.BASE_URL
-        config.BASE_URL = self.base_url
-
-        try:
-            XMLBuilder.build_sitemap_index(sitemap_files, index_path)
-            return index_path
-        finally:
-            # Restore original base URL
-            config.BASE_URL = original_base_url
+        # Pass base_url directly to the builder
+        XMLBuilder.build_sitemap_index(sitemap_files, index_path, self.base_url)
+        return index_path
 
     def run(self) -> int:
         """

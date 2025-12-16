@@ -13,7 +13,7 @@ from config import (
     BASE_URL,
     DATE_FORMAT,
 )
-from validators import validate_sitemap_size
+from validators import validate_sitemap_size, escape_xml
 
 
 class XMLBuilder:
@@ -37,7 +37,9 @@ class XMLBuilder:
 
         for entry in url_entries:
             lines.append('    <url>')
-            lines.append(f'        <loc>{entry["url"]}</loc>')
+            # Escape URL for XML
+            escaped_url = escape_xml(entry["url"])
+            lines.append(f'        <loc>{escaped_url}</loc>')
 
             # Add lastmod if present
             if 'lastmod' in entry and entry['lastmod']:
@@ -68,14 +70,23 @@ class XMLBuilder:
         print(f"Generated sitemap: {output_path.name} ({len(url_entries)} URLs, {size_bytes:,} bytes)")
 
     @staticmethod
-    def build_sitemap_index(sitemap_files: List[Path], output_path: Path) -> None:
+    def build_sitemap_index(sitemap_files: List[Path], output_path: Path, base_url: str = None) -> None:
         """
         Build main sitemap index XML file.
 
         Args:
             sitemap_files: List of individual sitemap file paths
             output_path: Path where index XML will be saved
+            base_url: Base URL for sitemap locations (optional, uses BASE_URL from config if not provided)
         """
+        # Use provided base_url or fall back to config
+        if base_url is None:
+            base_url = BASE_URL
+
+        # Ensure base_url ends with /
+        if not base_url.endswith('/'):
+            base_url += '/'
+
         # Get current date for lastmod
         current_date = datetime.now().strftime(DATE_FORMAT)
 
@@ -86,7 +97,7 @@ class XMLBuilder:
         # Add each sitemap
         for sitemap_file in sorted(sitemap_files):
             lines.append('    <sitemap>')
-            lines.append(f'        <loc>{BASE_URL}{sitemap_file.name}</loc>')
+            lines.append(f'        <loc>{base_url}{sitemap_file.name}</loc>')
             lines.append(f'        <lastmod>{current_date}</lastmod>')
             lines.append('    </sitemap>')
 
