@@ -150,7 +150,8 @@ class CSVParser:
         if not input_dir.exists():
             return []
 
-        csv_files = list(input_dir.glob('*_input.csv'))
+        # Find all CSV files
+        csv_files = list(input_dir.glob('*.csv'))
         return sorted(csv_files)
 
     @staticmethod
@@ -162,12 +163,7 @@ class CSVParser:
             csv_path: Path to CSV file
 
         Returns:
-            Output XML filename (e.g., 'manual_input.csv' -> 'manual.xml')
+            Output XML filename (e.g., 'polaris.csv' -> 'polaris.xml')
         """
         name = csv_path.stem  # Get filename without extension
-
-        # Remove '_input' suffix if present
-        if name.endswith('_input'):
-            name = name[:-6]
-
         return f"{name}.xml"

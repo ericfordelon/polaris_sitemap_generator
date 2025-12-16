@@ -54,3 +54,6 @@ htmlcov/
 
 # OS
 Thumbs.db
+
+# Environment variables
+.env

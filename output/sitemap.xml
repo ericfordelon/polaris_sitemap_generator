@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
-        <loc>https://ericfordelon.github.io/polaris_sitemap_generator/output/manual.xml</loc>
-        <lastmod>2025-11-24</lastmod>
+        <loc>https://example.com/sitemaps/hp-supplies.xml</loc>
+        <lastmod>2025-12-15</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://example.com/sitemaps/polaris.xml</loc>
+        <lastmod>2025-12-15</lastmod>
     </sitemap>
 </sitemapindex>

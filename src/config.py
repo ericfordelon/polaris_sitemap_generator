@@ -14,7 +14,9 @@ OUTPUT_DIR = BASE_DIR / "output"
 EXAMPLES_DIR = BASE_DIR / "examples"
 
 # Sitemap settings
-BASE_URL = "https://ericfordelon.github.io/polaris_sitemap_generator/output/"
+# Base URL for sitemap index - where the sitemap files will be hosted
+# This can be overridden via command line argument
+BASE_URL = os.environ.get("SITEMAP_BASE_URL", "https://example.com/sitemaps/")
 MAX_URLS_PER_SITEMAP = 50000
 MAX_SITEMAP_SIZE_MB = 50
 

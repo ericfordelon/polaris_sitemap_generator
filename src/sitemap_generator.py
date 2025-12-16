@@ -47,7 +47,7 @@ class SitemapGenerator:
 
         if not csv_files:
             print(f"No CSV files found in {self.input_dir}")
-            print(f"Looking for files matching pattern: *_input.csv")
+            print(f"Looking for files matching pattern: *.csv")
             return []
 
         print(f"Found {len(csv_files)} CSV file(s)")
@@ -140,7 +140,7 @@ class SitemapGenerator:
             Exit code (0 for success, 1 for failure)
         """
         print("=" * 70)
-        print("Polaris Sitemap Generator")
+        print("Sitemap Generator")
         print("=" * 70)
         print()
 
